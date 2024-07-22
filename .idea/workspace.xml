@@ -5,18 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2b969e8-91a2-4913-ac11-6b0389f255e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonExpertiseHub.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/.ipynb_checkpoints/Test-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/DataType/data_type.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/DataType/data_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Function/function_annotations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Function/lambda_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Function/variable_lngth_arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Input_Output/input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Input_Output/output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Libraries/Pandas/pandas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Libraries/Pandas/pandas_datastructure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Module/aliasing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Module/callmodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Module/mymodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Oop/Oop.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Oop/Oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Oop/assertion_error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Oop/class_attribute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Oop/class_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Oop/dundermethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Oop/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Oop/instance_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Package/package.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/TypeCasting/type_casting.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/TypeCasting/type_casting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/PythonCore.md" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/PythonCore.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PythonCore/Variable.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,9 +75,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2iQ57DC6m0m4cVMzU0SRudZ7J6w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -63,11 +89,34 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.DataType.executor": "Run",
+    "Python.Test.executor": "Run",
+    "Python.aliasing.executor": "Run",
+    "Python.assertion_error.executor": "Run",
+    "Python.class_attribute.executor": "Run",
+    "Python.class_method.executor": "Run",
+    "Python.data_type.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.input.executor": "Debug",
+    "Python.lambda_function.executor": "Run",
+    "Python.output.executor": "Run",
+    "Python.pandas.executor": "Run",
+    "Python.pandas_datastructure.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.variable_lngth_arguments.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dev-features-docs"
+    "git-widget-placeholder": "dev-features-docs",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Beezlabs\Python\PythonExpertiseHub\PythonCode_Reference\Libraries" />
+      <recent name="D:\Beezlabs\Python\PythonExpertiseHub\PythonCode_Reference\DataType" />
+      <recent name="D:\Beezlabs\Python\PythonExpertiseHub\Resources\PythonCore" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

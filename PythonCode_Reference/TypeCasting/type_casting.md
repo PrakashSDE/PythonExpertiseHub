@@ -1,7 +1,7 @@
 
 # Variable Concept
 
-## Dynamic Typing
+## Implicit Type Casting / Dynamic Typing
  ```python
    x = 10
    x = "Now I'm a string"
