@@ -1,27 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2b969e8-91a2-4913-ac11-6b0389f255e5" name="Changes" comment="" />
+    <list default="true" id="c2b969e8-91a2-4913-ac11-6b0389f255e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Libraries/Pandas/plots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Libraries/Pandas/read_write_tabulardata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Libraries/Pandas/subset_dataframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Libraries/Pywin32/com/excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Libraries/Pywin32/com/word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCode_Reference/Libraries/Pywin32/win32/windows_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonCode_Reference/Libraries/Pandas/pandas.md" beforeDir="false" afterPath="$PROJECT_DIR$/PythonCode_Reference/Libraries/Pandas/pandas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonCode_Reference/Libraries/Pandas/pandas_datastructure.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonCode_Reference/Libraries/Pandas/pandas_datastructure.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="dev-features-docs" />
+                    <option name="lastUsedInstant" value="1719410032" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1719410031" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2iQ57DC6m0m4cVMzU0SRudZ7J6w" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.DataType.executor": "Run",
+    "Python.Test.executor": "Run",
+    "Python.aliasing.executor": "Run",
+    "Python.assertion_error.executor": "Run",
+    "Python.class_attribute.executor": "Run",
+    "Python.class_method.executor": "Run",
+    "Python.com_support.executor": "Run",
+    "Python.data_type.executor": "Run",
+    "Python.dataframe.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.input.executor": "Debug",
+    "Python.lambda_function.executor": "Run",
+    "Python.output.executor": "Run",
+    "Python.pandas.executor": "Run",
+    "Python.pandas_datastructure.executor": "Run",
+    "Python.plots.executor": "Run",
+    "Python.pywin32.executor": "Run",
+    "Python.read_write_tabulardata.executor": "Run",
+    "Python.series.executor": "Run",
+    "Python.subset_dataframe.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.variable_lngth_arguments.executor": "Run",
+    "Python.windows_api.executor": "Debug",
+    "Python.word.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev-features-docs",
+    "last_opened_file_path": "D:/Beezlabs/Python/pandas",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Beezlabs\Python\PythonExpertiseHub\PythonCode_Reference\Libraries\Pywin32\com" />
+      <recent name="D:\Beezlabs\Python\PythonExpertiseHub\PythonCode_Reference\Libraries\Pywin32\win32" />
+      <recent name="D:\Beezlabs\Python\PythonExpertiseHub\PythonCode_Reference\Libraries" />
+      <recent name="D:\Beezlabs\Python\PythonExpertiseHub\PythonCode_Reference\DataType" />
+      <recent name="D:\Beezlabs\Python\PythonExpertiseHub\Resources\PythonCore" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -39,5 +129,19 @@
       <updated>1719409790840</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
